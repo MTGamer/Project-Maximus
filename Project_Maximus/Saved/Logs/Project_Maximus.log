@@ -1,11 +1,19 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 ﻿Log file open, 09/28/20 13:43:59
 LogInit: Display: Running engine for game: Project_Maximus
 LogPlatformFile: Not using cached read wrapper
 LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
 LogStats: Stats thread started at 1.056615
+=======
+﻿Log file open, 09/28/20 13:40:15
+LogInit: Display: Running engine for game: Project_Maximus
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.198959
+>>>>>>> Stashed changes
 =======
 ﻿Log file open, 09/28/20 13:40:15
 LogInit: Display: Running engine for game: Project_Maximus
@@ -171,8 +179,13 @@ LogInit: Branch Name: ++UE4+Release-4.25
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 LogInit: Command Line: 
 LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/Win64/
+=======
+LogInit: Command Line:  -EpicPortal -epicusername=CursedSussano -epicuserid=8a622aca19eb4b89b0c677bd7f152403 -epiclocale=en
+LogInit: Base Directory: Z:/Program Files/Epic Games/UE_4.25/Engine/Binaries/Win64/
+>>>>>>> Stashed changes
 =======
 LogInit: Command Line:  -EpicPortal -epicusername=CursedSussano -epicuserid=8a622aca19eb4b89b0c677bd7f152403 -epiclocale=en
 LogInit: Base Directory: Z:/Program Files/Epic Games/UE_4.25/Engine/Binaries/Win64/
@@ -233,6 +246,7 @@ LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
 LogInit: Object subsystem initialized
 LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
 LogConfig: Setting CVar [[r.setres:1280x720]]
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
@@ -761,6 +775,8 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.09.28-17.44.57:283][431]LogSlate: Window 'Message Log' being destroyed
 [2020.09.28-17.44.57:295][431]LogSlate: Window 'Message Log' being destroyed
 =======
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 =======
@@ -1691,6 +1707,9 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.09.28-17.46.53:481][ 38]Log file closed, 09/28/20 13:46:53
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
